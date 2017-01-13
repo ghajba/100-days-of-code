@@ -32,3 +32,19 @@
 **Thoughts**: Geometry will be needed for other challenges at CodinGame -- it is time to learn something and get the freakin Mars Lander to the ground in safety.
 
 **Link to work**: [Day 3 GitHub folder](https://github.com/ghajba/100-days-of-code/blob/master/Day_3)
+
+## Day 4: January 11, 2017
+
+**Today's Progress**: Fantastic Bits at CodinGame
+
+**Thoughts**: It was hard to find out how to calculate the next position of the wizards based on the target and thrust. Next time I'll take a look at calculating the next position for other entities where the target / thrust is not known.
+
+**Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/12/day-4-fantastic-bits/)
+
+## Day 5: January 12, 2017
+
+**Today's Progress**: Genome Sequencing at CodinGame
+
+**Thoughts**: Sometimes a simple approach works out better thant the one you think about at first. De Bruijn graphs are good but not every time.
+
+**Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/13/day-5-genome-sequencing/)
