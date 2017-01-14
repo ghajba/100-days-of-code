@@ -48,3 +48,11 @@
 **Thoughts**: Sometimes a simple approach works out better thant the one you think about at first. De Bruijn graphs are good but not every time.
 
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/13/day-5-genome-sequencing/)
+
+## Day 6: January 13, 2017
+
+**Today's Progress**: Fantastic Bits at CodinGame
+
+**Thoughts**: Heuristics are good but you need to arrange them in the right order. AI is good but you can be OK without it for a while -- just for the fun of coding.
+
+**Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/14/day-6-fantastic-bits-again/)
