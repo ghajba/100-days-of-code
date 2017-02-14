@@ -56,3 +56,27 @@
 **Thoughts**: Heuristics are good but you need to arrange them in the right order. AI is good but you can be OK without it for a while -- just for the fun of coding.
 
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/14/day-6-fantastic-bits-again/)
+
+## Day 7-15: between January 15 and February 11, 2017
+
+**Progress**: Different things
+
+**Thoughts**: Keeping a diary is not my strength. And keeping up the daily coding is again out of question.
+
+**Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/02/12/i-knew-it-right-at-the-start/)
+
+## Day 16: February 12, 2017
+
+**Today's Progress**: FreeCodeCamp Front End Development Certificate
+
+**Thoughts**: After some time I could finish this certificate (actually the last project, Simon) and I am happy. #HWAPO
+
+**Link to work**: [Cerificate](https://www.freecodecamp.com/ghajba/front-end-certification)
+
+## Day 17: February 13, 2017
+
+**Today's Progress**: Elixir and OTP
+
+**Thoughts**: I did some Elixir coding at CodeWars and book review too. I think I get stronger in this language too but it will take much more time to "master" it. And I need to get work done with Elixir to claim my experience.
+
+**Link to work**: No link today, the work is not for share.
