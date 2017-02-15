@@ -44,15 +44,12 @@
 ## Day 5: January 12, 2017
 
 **Today's Progress**: Genome Sequencing at CodinGame
-
 **Thoughts**: Sometimes a simple approach works out better thant the one you think about at first. De Bruijn graphs are good but not every time.
 
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/13/day-5-genome-sequencing/)
 
 ## Day 6: January 13, 2017
-
 **Today's Progress**: Fantastic Bits at CodinGame
-
 **Thoughts**: Heuristics are good but you need to arrange them in the right order. AI is good but you can be OK without it for a while -- just for the fun of coding.
 
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/14/day-6-fantastic-bits-again/)
@@ -66,17 +63,16 @@
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/02/12/i-knew-it-right-at-the-start/)
 
 ## Day 16: February 12, 2017
-
 **Today's Progress**: FreeCodeCamp Front End Development Certificate
-
 **Thoughts**: After some time I could finish this certificate (actually the last project, Simon) and I am happy. #HWAPO
-
 **Link to work**: [Cerificate](https://www.freecodecamp.com/ghajba/front-end-certification)
 
 ## Day 17: February 13, 2017
-
 **Today's Progress**: Elixir and OTP
-
 **Thoughts**: I did some Elixir coding at CodeWars and book review too. I think I get stronger in this language too but it will take much more time to "master" it. And I need to get work done with Elixir to claim my experience.
+**Link to work**: No link today, the work is not for share.
 
+## Day 18: February 14, 2017
+**Today's Progress**: Website Scraper in Python
+**Thoughts**: Sometimes the algorithm you think will solve your problem perfectly reults in a mess you have to fix with hours of manual labor. Next time I'll double-check my solutions before I let them run...
 **Link to work**: No link today, the work is not for share.
