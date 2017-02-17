@@ -76,3 +76,8 @@
 **Today's Progress**: Website Scraper in Python
 **Thoughts**: Sometimes the algorithm you think will solve your problem perfectly reults in a mess you have to fix with hours of manual labor. Next time I'll double-check my solutions before I let them run...
 **Link to work**: No link today, the work is not for share.
+
+## Day 19: February 15, 2017
+**Today's Progress**: Website Scraper in Python
+**Thoughts**: I continued the website scraper from day 18 and polished my code: updated the algorithm to fix the issues from the previous day. 
+**Link to work**: No link today, the work is not for share.
