@@ -50,6 +50,7 @@
 
 ## Day 6: January 13, 2017
 **Today's Progress**: Fantastic Bits at CodinGame
+
 **Thoughts**: Heuristics are good but you need to arrange them in the right order. AI is good but you can be OK without it for a while -- just for the fun of coding.
 
 **Link to work**: [Blog entry](https://hahamo.wordpress.com/2017/01/14/day-6-fantastic-bits-again/)
@@ -64,20 +65,36 @@
 
 ## Day 16: February 12, 2017
 **Today's Progress**: FreeCodeCamp Front End Development Certificate
+
 **Thoughts**: After some time I could finish this certificate (actually the last project, Simon) and I am happy. #HWAPO
+
 **Link to work**: [Cerificate](https://www.freecodecamp.com/ghajba/front-end-certification)
 
 ## Day 17: February 13, 2017
 **Today's Progress**: Elixir and OTP
+
 **Thoughts**: I did some Elixir coding at CodeWars and book review too. I think I get stronger in this language too but it will take much more time to "master" it. And I need to get work done with Elixir to claim my experience.
+
 **Link to work**: No link today, the work is not for share.
 
 ## Day 18: February 14, 2017
 **Today's Progress**: Website Scraper in Python
+
 **Thoughts**: Sometimes the algorithm you think will solve your problem perfectly reults in a mess you have to fix with hours of manual labor. Next time I'll double-check my solutions before I let them run...
+
 **Link to work**: No link today, the work is not for share.
 
 ## Day 19: February 15, 2017
 **Today's Progress**: Website Scraper in Python
+
 **Thoughts**: I continued the website scraper from day 18 and polished my code: updated the algorithm to fix the issues from the previous day. 
+
 **Link to work**: No link today, the work is not for share.
+
+
+## Day 20: February 18, 2017
+**Today's Progress**: Elixir book review and programming
+
+**Thoughts**: Book reviews are needed because writers can mess up their code too. And it is a pain to fix those things what are missing or not working. But it is a good thing to help improvement! 
+
+**Link to work**: No link today, the work is not for share for now, you'll see my name in a book in the Acknowledge section in the near future ;)
